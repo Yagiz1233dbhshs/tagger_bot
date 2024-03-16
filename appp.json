@@ -4,39 +4,39 @@
   "description": "User tagger bot sıze ucretsız uyelerınızı etıketleyen bı bottur.",
   "env": {
     "BOT_TOKEN": {
-      "description": "bot token girin.",
+      "description": "7164892651:AAHHrbpOdNpqugw5q5vFjK_C0znnfk4Q9lw",
       "value": ""
     },
     "API_ID": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "description": "18049084",
       "value": ""
     },
     "API_HASH": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "description": "7e74b1e22026fcc291d32b3d431aa21e",
       "value": ""
     },
     "BOT_NAME": {
-      "description": "botun adını girin.",
+      "description": "EFSUNKAR TAGGER BOT 🇹🇷",
       "value": ""
     },
     "BOT_USERNAME": {
-      "description": "botun adresini girin.",
+      "description": "EFSUNKAR_TAGGER_BOT",
       "value": ""
     },
     "BOT_ID": {
-      "description": "botun id'sini girin.",
+      "description": "6786458787",
       "value": ""
     },
     "SUDO_USERS": {
-      "description": "botun sahibini girin.",
+      "description": "yagizzwq",
       "value": ""
     },
     "SUPPORT_CHAT": {
-      "description": "botun destek grubunu girin.",
+      "description": "efsunkaryenidenn",
       "value": ""
     },
     "OWNER_ID": {
-      "description": "botun sahibinin id'sini girin.",
+      "description": "7164892651",
       "value": ""
     },
     "OWNER_USERNAME": {
